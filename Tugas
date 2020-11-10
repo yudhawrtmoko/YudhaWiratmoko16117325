@@ -1,0 +1,46 @@
+<html>
+<head>
+<title>Data Mahasiswa</title>
+<center><h1>Data Mahasiswa</h1></center>
+<center><table border="1">
+<tr>
+        <td>No.</td>
+        <td><center>Nama</td>
+        <td><center>NPM</td>
+        <td><center>Domisili</td>
+        <td><center>Jurusan</center></td>       
+
+<tr>     <td><center>1</td>
+                <td>Mimo Fadillah</td>
+                <td>13117597</td>
+                <td>Jakarta</td>
+                <td>Sistem Informasi</td>
+</tr>
+<tr>     <td><center>2</td>
+                <td>Lody Isbiantoro</td>
+                <td>13117342</td>
+                <td>Jakarta</td>
+                <td>Sistem Informasi</td>
+</tr>   
+<tr>     <td><center>3</td>
+                <td>Yudha Wiratmoko</td>
+                <td>16117325</td>
+                <td>Jakarta</td>
+                <td>Sistem Informasi</td>
+                 </tr>
+<tr>     <td><center>4</td>
+                <td>Andhika Dipto Setiawan</td>
+                <td>10117673</td>
+                <td>Depok</td>
+                <td>Sistem Informasi</td>
+</tr>
+<tr>     <td><center>5</td>
+                 <td>Firdaus</td>
+                 <td>12117382</td>
+                 <td>Jakarta</td>
+                 <td>Sistem Informasi</td>
+</tr>  
+<tr>
+</table>
+</body>
+</html>
